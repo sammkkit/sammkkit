@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Samkit Jain. I am currently in my 2nd year at Indian Institute of Information Technology Bhopal (IIIT Bhopal). Check out my profile [here](https://samkit.site).
+Hi, my name is Samkit Jain. I am currently in my 2nd year at Indian Institute of Information Technology Bhopal (IIIT Bhopal). Check out my profile [samkit.site](https://samkit.site).
 
 
 
